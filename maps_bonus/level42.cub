@@ -1,0 +1,19 @@
+NO ./textures/42_N.png
+SO ./textures/42_S.png
+EA ./textures/42_E.png
+WE ./textures/42_W.png
+DO ./textures/42_DO.png
+PO ./textures/42_PO.png
+
+C  0,0,0
+F  255,255,255
+
+
+     1111  11111
+    1000111000001
+   1000000D0010001
+  1000001111110001
+ 10000001   10001
+111110001  10001
+    10P01 10N01
+    11111111111111
