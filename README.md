@@ -1,6 +1,7 @@
 # **CUB3D**
 
 Cub3D is a game emulating the style of Wolfenstein 3D, fully written in C. It is a project in Hive Helsinki's curriculum completed in a team of two with [Szabina Korbai](https://github.com/Lisly25).
+I personally focussed on implementing the DDA algorithm to make the 3D effect work.
 
 ## **Overview**
 
